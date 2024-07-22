@@ -1,5 +1,11 @@
 #include <iostream>
 
+
+void greet()
+{
+    // greet
+}
+
 int main()
 {
     // print some text
