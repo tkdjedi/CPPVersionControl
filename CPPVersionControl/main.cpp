@@ -2,6 +2,7 @@
 
 int main()
 {
-    std::cout << "Main little muffin\n\n";
+    // print some text
+    std::cout << "cupcakes\n\n";
     return 0;
 }
