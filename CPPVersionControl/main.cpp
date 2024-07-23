@@ -9,6 +9,6 @@ void greet()
 int main()
 {
     // print some text
-    std::cout << "Cupcakes\n\n";
+    std::cout << "Racist Barn\n\n";
     return 0;
 }
